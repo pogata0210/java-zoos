@@ -63,3 +63,4 @@ Stretch Goals
 * Update each of the three actuator endpoints to report your own messages
 * Expose the end point /animals/count that returns a JSON object list listing the animals and a count of how many zoos where they can be found.
 * Log to the console each time a record in the database is changed.
+My project
